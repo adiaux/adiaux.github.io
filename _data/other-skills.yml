@@ -5,3 +5,7 @@
 - name: Adobe Illustrator
   percentage: 90
   color: success
+
+- name: Gaming 
+  percentage: 100
+  color: danger

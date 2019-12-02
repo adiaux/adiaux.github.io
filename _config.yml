@@ -1,34 +1,34 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Personal Website
 description         : >-                               # >- means to ignore newlines until "url:"
                       I turn coffee into code,
                       use tabs over spaces
                       and never broke production.
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
-baseurl             : "/portfolYOU"                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
-repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
+baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
+repository          : adiaux    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
 #remote_theme       : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://bit.ly/2KCvgVJ
-  behance           : your_username
+  name              : Aditya Anil
+  image             : https://scontent-iad3-1.cdninstagram.com/vp/686a6e7f5853353925a94315a3956ec9/5E80D9AD/t51.2885-19/73385862_1444913368999790_1303866579741573120_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com
+  behance           : aditya8anil@gmail.com
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : aditya8anil@gmail.com
+  facebook          : aditya8anil
+  github            : adiaux
 # gitlab            : your_username
-# instagram         : your_username
-  linkedin          : your_username
-  medium            : your_username
+  instagram         : aaaddii__10
+# linkedin          : your_username
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  twitter           : AdityaAnil19
 # vimeo             : your_username
 # youtube           : your_channel_name
 

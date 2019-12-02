@@ -3,9 +3,13 @@
   color: danger
 
 - name: Go
-  percentage: 80
+  percentage: 75 
   color:
 
-- name: Python
-  percentage: 70
+- name: Python3
+  percentage: 90
   color: dark
+
+- name: C++
+  percentage: 85
+  color: success

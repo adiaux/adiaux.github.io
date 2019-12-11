@@ -7,5 +7,5 @@
   color: success
 
 - name: Gaming 
-  percentage: 100
+  percentage: 60
   color: danger

@@ -6,7 +6,6 @@ color: info
 description: Experince in the lab session
 --- 
 
-Source: [Jonathan Fulton](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 
 # My Experience in the lab sessions 
 

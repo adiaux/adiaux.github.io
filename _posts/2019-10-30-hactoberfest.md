@@ -21,6 +21,7 @@ Getting into the foss club introduced me to the Open Source World and all the ac
 This was my first project, at the same it introducing me to the Open Source World it also helped me complete all the 4 PR's I needed in order to complete the hacktober fest.The following is a basic summary of what was in my the PR's:
 
 *PR1*
+
 Added a script to get the details and filtered out the unwanted data.
 
 *PR2*
